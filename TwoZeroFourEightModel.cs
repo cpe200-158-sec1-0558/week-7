@@ -37,7 +37,7 @@ namespace twozerofoureight
                 }
             }
             rand = new Random();  
-            board = Random(board);      
+            board = Random(board);   
             NotifyAll();
         }
 
